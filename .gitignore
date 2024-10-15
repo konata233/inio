@@ -1,1 +1,6 @@
 /target
+test.ini
+.idea/vcs.xml
+.idea/modules.xml
+.idea/inio.iml
+.idea/workspace.xml
